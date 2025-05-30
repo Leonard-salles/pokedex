@@ -11,6 +11,7 @@ body {
     font-family: "Oxanium", sans-serif;
     background: linear-gradient(to bottom, #6ab7f5, #fff);
     height: 100dvh;
+    min-height: 700px;
 }
 
 main {
@@ -27,10 +28,10 @@ main {
 
 .pokemon_image {
     position: absolute;
-    left: 40%;
+    left: 35%;
     bottom: 54%;
-    width: 16%;
-    height: 13%;
+    width: 20%;
+    height: 15%;
 }
 
 .pokemon_data {
